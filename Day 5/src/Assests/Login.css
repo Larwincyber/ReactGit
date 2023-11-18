@@ -1,0 +1,113 @@
+.con{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color:antiquewhite;
+    height: 600px;
+    width: 1200px;
+    margin-top: 150px;
+    margin-left: 190px;
+    border-radius: 20px;
+    box-shadow:
+  3.4px 3.4px 2.7px rgba(0, 0, 0, 0.118),
+  8.7px 8.7px 6.9px rgba(0, 0, 0, 0.169),
+  17.7px 17.7px 14.2px rgba(0, 0, 0, 0.211),
+  36.5px 36.5px 29.2px rgba(0, 0, 0, 0.262),
+  100px 100px 80px rgba(0, 0, 0, 0.38);
+}
+.inu{
+    background: #757F9A;
+    background: -webkit-linear-gradient(to right, #D7DDE8, #757F9A); 
+    background: linear-gradient(to right, #D7DDE8, #757F9A); 
+        
+    /* border-radius: 20px; */
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    height:100%;
+    width: 900px;
+}
+.usernm,
+    input[type="password"],
+    input[type="text"] {
+    border: none;
+    background: none;
+    border-bottom: 1px solid #000;
+    outline:none; 
+}
+.usernm{
+    margin-left: 70px;
+    width: 400px;
+}
+.h3{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 20px;
+}
+.para{
+    margin-left: 260px;
+}
+.h1{
+    margin-left: 25px;
+}
+.use{
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 20px;
+    /* opacity: 10%; */
+    /* top:-1px; */
+}
+/* .usernm{
+    opacity: 60%;
+    box-shadow: 2px 2px 10px 0px ;
+} */
+.h11{
+    margin-left: 80px;
+    margin-top: 150px;
+}
+.ano{
+    background: #C9FFBF; 
+    background: -webkit-linear-gradient(to right, #FFAFBD, #C9FFBF);
+    background: linear-gradient(to right, #FFAFBD, #C9FFBF);
+    
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    /* border-radius: 20px; */
+    height: 100%;
+    width: 1150px;
+}
+.but2{
+    margin-top: 130px;
+    margin-left: 160px;
+}
+.but1{
+    margin-top: 90px;
+    margin-left: 50px;
+    width: 80%;
+    height: 28px;
+}
+.gle{
+    margin-top: 130px;
+    margin-left: 45px;
+    height: 28px;
+    width: 80%;
+    background: #9CECFB; 
+    background: -webkit-linear-gradient(to right, #0052D4, #65C7F7, #9CECFB); 
+    background: linear-gradient(to right, #0052D4, #65C7F7, #9CECFB); 
+
+}
+.insta{
+    margin-top:25px;
+    margin-left: 45px;
+    height: 28px;
+    width: 80%;
+    background: #f857a6; 
+    background: -webkit-linear-gradient(to right, #ff5858, #f857a6);
+    background: linear-gradient(to right, #ff5858, #f857a6);
+    
+
+}
+body{
+    background: #232526;
+    background: -webkit-linear-gradient(to right, #414345, #232526); 
+    background: linear-gradient(to right, #414345, #232526);
+}
